@@ -24,6 +24,8 @@ A modern, responsive portfolio website showcasing my work as a computer science 
 
 portfolio/
 |   ├──app/
+|   ├──SAADI/
+|   ├──M.SAADI.png
 │   ├── index.html          # Main HTML file
 │   ├── styles.css          # Main stylesheet
 │   ├── script.js           # JavaScript functionality
